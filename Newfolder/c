@@ -1,0 +1,9 @@
+#include<stdio.h>
+main()
+{
+int i;
+printf("hi");
+fork();
+fork();
+printf("hello world!");
+}

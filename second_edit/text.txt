@@ -1,0 +1,90 @@
+Python is a best programming language.It is used by a number of people.
+
+Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python is often described as a "batteries included" language due to its comprehensive standard library.
+
+
+
+
+Automation testing is a Software testing technique to test and compare the actual outcome with the expected outcome. This can be achieved by writing test scripts or using any automation testing tool. Test automation is used to automate repetitive tasks and other testing tasks which are difficult to perform manually.
+
+
+
+ Module 1-  Introduction To Python
+
+ Module 2: Sequence & File Operation
+
+Module 3: Deep Dive – Function, OOPS, Modules, Errors & Exceptions
+
+Module 4: Introduction To NumPy & Pandas
+
+Module 5: Data Visualization
+
+Module 6: Data Manipulation
+
+Module 7: Developing Web maps & Representing Info. Using Plots
+
+Module 8: Computer Vision using open CV & Visualization using Bokeh
+
+
+Become a Microsoft Certified Professional
+Microsoft Certified Professional (MCP) certification validates IT professional and developer technical expertise through rigorous
+
+, industry-proven, and industry-recognized exams. MCP exams cover a wide range of Microsoft products, technologies, and solutions.
+
+
+Data analysis. Data analysis is a process of inspecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusions and supporting decision-making.
+
+Machine learning is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions,
+
+
+ relying on patterns and inference instead. It is seen as a subset of artificial intelligence.
+
+
+
+
+
+
+
+
+
+   The processes involved in machine learning are similar to that of data mining and predictive modeling. Both require searching through data to look for patterns and adjusting program actions accordingly. Many people are familiar with machine learning from shopping on the internet and being served ads related to their purchase. 
+
+
+Data analysis is the process of evaluating data using analytical and statistical tools to discover useful information and aid in business decision making. There are a several data analysis methods including data mining, text analytics, business intelligence and data visualization.
+
+
+
+Human resource management(HRM or HR) is the management of human resources.
+Commonly referred to as the HR Department, it is designed to maximize employee
+performance in service of an employer's strategic objectives.HR is primarily concerned with
+the management of people within organizations, focusing on policies and on systems. HR
+departments are responsible for overseeing employee-benefits design, employee recruitment,
+training and development, performance appraisal, and rewarding (e.g., managing pay and
+benefit systems).HR also concerns itself with organizational change and industrial relations,
+that is, the balancing of organizational practices with requirements arising from collective
+bargaining and from governmental laws.
+
+Responsibilities: Responsible for handling IT requirements from US based clients. Responsible for full-cycle recruiting: interview, offer, negotiation and closed candidates for assigned requisitions.
+
+
+The Finance Executive includes any executive role that is responsible for managing the financial performance of the company. This role might include C-level and Senior
+
+
+
+ Vice President-level executives. The Finance Executive role includes the following tasks Monitoring financial performance metrics and compliance.
+
+
+
+Interpersonal skills include a wide variety of skills, though many are centred around communication, such as listening, questioning and understanding body language. They also include the skills and attributes associated with emotional intelligence, or being able to understand and manage your own and others' emotions.
+
+
+
+Interpersonal communication is the process by which people exchange information, feelings, and meaning through verbal and non-verbal messages: it is face-to-face communication.
+
+
+
+
+
+
+
+
